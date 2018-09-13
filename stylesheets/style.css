@@ -99,6 +99,10 @@ blockquote {
   background-color: #000000;
 }
 
+.headmaster{
+min-height: 100%;
+}
+
 .roundwhite{
   border-radius: 4px; 
   background-color: #828282;
