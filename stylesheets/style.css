@@ -95,6 +95,11 @@ blockquote {
       border-color: #fff;
       background: transparent; }
 
+
+.roundwhite{
+  border-radius: 4px; 
+  background-color: #828282;
+}
 /* line 158, /Users/kaj/Dropbox/Freelance/Themanoid/Themes/Agency/dev-mac-upload/source/stylesheets/style.scss */
 .white {
   background: #fff; }
